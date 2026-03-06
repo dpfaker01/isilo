@@ -1,0 +1,65 @@
+"iSilo(TM) for Android" version 6.10 End User License Agreement
+
+These terms apply to "iSilo(TM) for Android" version 6.10.
+
+SOFTWARE LICENSE AGREEMENT
+
+This is a legal agreement between you ("Licensee"), the end user, and DC & Co.  The software programs and documentation ("Software") provided by DC & Co. are licensed by DC & Co. to the original customer.  Please read this license agreement ("Agreement").  Using the Software indicates that you accept these terms.
+
+YOU AGREE THAT YOUR USE OF THE SOFTWARE ACKNOWLEDGES THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS AND THAT THIS AGREEMENT HAS THE SAME FORCE AND EFFECT AS A SIGNED AGREEMENT.  IF YOU DO NOT AGREE TO ALL THE TERMS OF THIS LICENSE, YOU ARE NOT AUTHORIZED TO USE THE SOFTWARE.
+
+1. LICENSE.
+
+a) TRIAL MODE: DC & Co. grants Licensee the non-exclusive right to use the Software in trial mode for a period of no more than thirty (30) days, to run consecutively from the date of first use.
+
+b) REGISTERED MODE: In exchange for the payment of the required license fee for the Software, DC & Co. grants Licensee a perpetual non-exclusive, non-transferable, worldwide, royalty-free right and license to use the Software in registered mode on the number of handheld computers for which Licensee has paid the appropriate license fee.
+
+c) FREE MODE: DC & Co. grants Licensee the non-exclusive right to use the Software in free mode, a mode in which some features are limited.
+
+2. RESTRICTIONS. DC & Co. retains all right, title, and interest in and to the Software. Any rights not granted to Licensee in this Agreement are reserved by DC & Co.
+
+a) Licensee may not modify, reverse engineer, decompile, disassemble, or otherwise attempt to learn the inner workings, source code, structure, or algorithms underlying the Software except to the extent permitted under applicable law.
+
+b) Licensee may not create derivative works based upon the Software.
+
+c) Licensee may not rent, lease, sublicense, or sell the Software or any portion of the Software.
+
+d) Licensee may not remove or alter any trademark, logo, copyright or any other proprietary notices, legends, symbols or labels on or in the Software.
+
+e) Licensee may not use the Software to develop either directly or indirectly an application competitive to any product developed by DC & Co.
+
+f) Licensee may not use the Software in a manner that violates any applicable laws in the jurisdictions in which Licensee uses the Software, including, but not limited to, laws concerning copyright and intellectual property rights.
+
+g) Licensee may not export or re-export the Software if such an action violates applicable laws and restrictions in the jurisdiction in which Licensee intends to perform such an action.
+
+h) Licensee may make copies of the software for backup, but for no other purpose.
+
+3. FEES. If Licensee wishes to use the Software in registered mode, Licensee must pay a license fee.
+
+4. BETA VERSIONS. In the event that the Software is a beta version, the terms of this section shall apply. Licensee's license to use the Software expires 30 days after installation or such other period as indicated by the Software or associated notices.  The Software may include a mechanism to cause it to cease to function after the license period expires. Licensee agrees not to attempt to circumvent or defeat any such mechanism.  By using the Software, Licensee is aware that:
+
+a) The Software may contain errors that prevent it from functioning properly and such errors may cause irretrievable data loss.
+
+b) DC & Co. intends to release a final commercial version of the Software but reserves the right not to do so.
+
+c) The Software may contain more, less, or substantially different functionality than the final release version.
+
+d) DC & Co. recommends that Licensee use the Software in a test environment.  The Software is not suitable for production use.
+
+e) The purpose of the Software is to help verify the proper operation of the software across a variety of usage scenarios and environments.
+
+5. TERMINATION. This Agreement is effective until terminated. Without prejudice to any other rights, DC & Co. may terminate this Agreement if Licensee fails to comply with any term or condition of this Agreement. Upon termination, Licensee agrees to destroy all copies of the Software in Licensee's possession. Licensee may terminate this Agreement at any time by destroying all copies of the Software in Licensee's possession.
+
+6. DISCLAIMER OF WARRANTIES. THE SOFTWARE IS PROVIDED TO LICENSEE "AS IS" WITHOUT FURTHER WARRANTY OF ANY KIND. DC & CO. DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT, WITH RESPECT TO THE SOFTWARE. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE PRODUCT REMAINS WITH LICENSEE. DC & CO. DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED. THE FOREGOING DISCLAIMERS APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW IN LICENSEE'S JURISDICTION.
+
+7. LIMITATION OF LIABILITY. TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DC & CO. BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, OR SPECIAL DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE, ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. SUPPORT SERVICES. DC & Co. shall have no obligation under this Agreement to provide Licensee with any maintenance or technical support services with respect to Licensee's use of the Software.
+
+9. PROPRIETARY RIGHTS. The Software is protected by United States copyright law and international copyright treaties and provisions, as well as other intellectual property laws and treaties. The Software is licensed, not sold.  DC & Co. retains title to and ownership of the Software and the patents, copyrights, trade secrets, trademarks, intellectual property rights, and other proprietary interests therein. Licensee acknowledges that no title to the intellectual property in the Software is transferred from DC & Co. to Licensee. Licensee further acknowledges that title and full ownership rights to the Software will remain the exclusive property of DC & Co., and Licensee will not acquire any rights to the Software except as expressly set forth in this Agreement.
+
+10. NO WAIVER. The failure of either party to enforce any provision of this Agreement shall not be deemed a waiver of such provision.  The rights of DC & Co. under this Agreement are in addition to any other rights and remedies provided by law or under this Agreement.
+
+11. PARTIAL INVALIDITY.  If any provision in this Agreement shall be found to be invalid or unenforceable in any jurisdiction in which this Agreement is being performed, the remainder of this Agreement shall remain valid and enforceable and the parties shall negotiate in good faith, a substitute enforceable provision which most nearly effects the parties' intent in entering into this Agreement.
+
+12. ENTIRE AGREEMENT. This Agreement is the entire agreement between DC & Co. and Licensee relating to the Software and supercedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software.

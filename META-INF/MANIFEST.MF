@@ -1,0 +1,366 @@
+Manifest-Version: 1.0
+Created-By: ApkSigner
+
+Name: res/drawable-ldpi/dropbox_logo.png
+SHA1-Digest: GWAKRlsCxBzk+WRgwtzFnTSf0Bw=
+
+Name: assets/docs/iSiloManualAnd.pdb
+SHA1-Digest: g+rvsIu0/I4liudKyT6KegeOQQg=
+
+Name: lib/armeabi/libiSilo.so
+SHA1-Digest: o8dRE0n2mGLp2T3JQGWstpph/ZI=
+
+Name: res/layout/dl_settings_options.xml
+SHA1-Digest: Oy2sFpTNj80n9zNgDbUjVeDikbQ=
+
+Name: res/layout/copy_file_dialog.xml
+SHA1-Digest: m6eBLMVtQP9+h3TF6WaUO0yZL0k=
+
+Name: res/layout/favorite_folder_alias_dialog.xml
+SHA1-Digest: +OMYhrDny31oeCxjJHOY+qHScAM=
+
+Name: res/layout/doc_info_general_dialog.xml
+SHA1-Digest: q53FErhQgRCOcznGDPn8/lYxi4I=
+
+Name: res/drawable/new_overlay.png
+SHA1-Digest: 4vx4vR/41+j08bkAOBJvLXKbjEI=
+
+Name: res/layout/about_header.xml
+SHA1-Digest: /OOeZQo7uEaJH3YtNHb5GB6XT/4=
+
+Name: res/drawable/scrollbar_handle_verticalt.9.png
+SHA1-Digest: UKX6EifXSTdsvb/kKXj3LTCbnaA=
+
+Name: res/layout/read_scroll_options.xml
+SHA1-Digest: TsGnyPlSbGXjXsaRQuSdJVepUiY=
+
+Name: res/drawable/splash.png
+SHA1-Digest: BLfixpdlXhg7c93spq1PGUM+F+4=
+
+Name: res/layout/download_from_dropbox.xml
+SHA1-Digest: fNpDwoK2yPAQs7CokcqURGEbCQ8=
+
+Name: res/drawable/select_mode_page_btn.png
+SHA1-Digest: jzPjydT+BoYzhx5e+n134yFsQOo=
+
+Name: res/layout/splash.xml
+SHA1-Digest: 8xg4fPKV6+0H7G/I6o141/XIIXw=
+
+Name: res/layout/annotation_dialog.xml
+SHA1-Digest: cxIzOg4jB+vROPwTOljJhBxljFM=
+
+Name: res/layout/new_category_dialog.xml
+SHA1-Digest: +Gk+jrWFR7mPFvKobCqfqnhQerM=
+
+Name: res/layout/about_dialog.xml
+SHA1-Digest: 0kfwwpPmXMC59zBp7rBz4LIKHbk=
+
+Name: res/layout/read_options.xml
+SHA1-Digest: p3cf1x7zh6hvHj2h7xgwGDMm0RM=
+
+Name: res/drawable/close_btn.png
+SHA1-Digest: hEds/K+oULe3OOoO9QXyuM3OJI8=
+
+Name: res/layout/find_dialog.xml
+SHA1-Digest: G3Nm2wA4SMDIUW/VqfsXWHBaVHQ=
+
+Name: res/layout/dlv_entry_full.xml
+SHA1-Digest: t1nn1qqBLYT+RjLBnQr90FvznFY=
+
+Name: res/layout/rename_category_dialog.xml
+SHA1-Digest: 1E1+9sHGkIf4BhgZSt5V025AOBw=
+
+Name: res/layout/document_message_dialog.xml
+SHA1-Digest: 4zZadPyyLJQotqV6BkiV4l+Dr1U=
+
+Name: res/drawable-hdpi/file_icon.png
+SHA1-Digest: l9GA216cpr9Xu4XMGwFTZb5Wac0=
+
+Name: res/drawable-ldpi/app_icon.png
+SHA1-Digest: QIH9+ZFCnyZQfq71pAzZiU0HITg=
+
+Name: res/layout/simple_list_item_1_black.xml
+SHA1-Digest: J35RQ55BqLxfVlq/3lln1BJnTx0=
+
+Name: res/layout/read_ui_options.xml
+SHA1-Digest: PfCSjXi4t/mdQNqdrCYSVtGEJvM=
+
+Name: res/layout/categories_entry.xml
+SHA1-Digest: ZzRKV0n5/9MaBel27+zN+CQ5A6Y=
+
+Name: res/layout/message_dialog.xml
+SHA1-Digest: SpE9sU/kmwDkaXmnkKsmctYxDbs=
+
+Name: res/layout/read_font_options.xml
+SHA1-Digest: 6OOD64j/GD+4bKR6hQRupj8ZrVY=
+
+Name: res/layout/information_dialog.xml
+SHA1-Digest: i+tJCyFFW2gPwMqH5qUVRhYeydQ=
+
+Name: res/layout/edit_bookmarks_dialog.xml
+SHA1-Digest: svjjo2+QuSTzc2PWvwWz3sWRJ2A=
+
+Name: res/drawable/folder_up_icon.png
+SHA1-Digest: ewK/xc5q7m2osX9yYu3Y9bRaYjM=
+
+Name: res/drawable/entire_device.png
+SHA1-Digest: pwSGgCWQR+LRKDf5sJHLzq+Y+Uo=
+
+Name: res/layout/color_picker_dialog.xml
+SHA1-Digest: vzNs6MnFHogfz1D3AviqI7TXUhU=
+
+Name: resources.arsc
+SHA1-Digest: LduLHAXYnyU3ogcuf2PS3LTH5ZM=
+
+Name: res/layout/download_bookmarks_dialog.xml
+SHA1-Digest: svjjo2+QuSTzc2PWvwWz3sWRJ2A=
+
+Name: res/layout/document_password_dialog.xml
+SHA1-Digest: ZHlp9x/V+55jc5aifMyxXTndeDs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XNIeMiqoBK/ILjA5A2rmsRztlWk=
+
+Name: res/layout/document_regcode_dialog.xml
+SHA1-Digest: pMeMJZFvkNLwpPl829W2tkVWkxs=
+
+Name: res/drawable/card_icon.png
+SHA1-Digest: J0+MWqWVUSaIddp9prxtc9aCVnU=
+
+Name: res/drawable-hdpi/folder_icon.png
+SHA1-Digest: qVB45DYykOV9keufxoRoWuCHQEo=
+
+Name: res/drawable/bookmark_btn.png
+SHA1-Digest: zW5ByTT49K9cz54EGvO3Fltqon8=
+
+Name: res/layout/register_dialog.xml
+SHA1-Digest: 7RgZpRYmYibBWm8CNXmQ2Kzg37I=
+
+Name: res/layout/page_number_dialog.xml
+SHA1-Digest: 9LOySoJL0WqqD2uub5v82t8ICG0=
+
+Name: res/drawable/forward_btn.png
+SHA1-Digest: zeHqdRmoqfTNmrSdlLkECdBsSxI=
+
+Name: res/layout/percentage_dialog.xml
+SHA1-Digest: dPso4dSqaw4/QNsywDDwgYzMZIQ=
+
+Name: res/drawable/updated.png
+SHA1-Digest: ofrjio9jnHfnK4LfHNvC2iKiKuk=
+
+Name: res/layout/download.xml
+SHA1-Digest: o6Zk6Nt8g3SFiL/KGecn8G2wwjw=
+
+Name: res/drawable/single_tap.png
+SHA1-Digest: keWlSw6di9YAvxrq/Fs1Z6qOW2A=
+
+Name: res/drawable/home_btn.png
+SHA1-Digest: N1BovtMVxKgWJ5YfGMBE4AQUKb4=
+
+Name: classes.dex
+SHA1-Digest: 1UpUSrJd+KqzGzPcA3ja0HTO3hg=
+
+Name: res/drawable/categorized_overlay.png
+SHA1-Digest: TwRBqFQn93EIcE01X1y5HyOJmL0=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 7xizMYuoK0G55atqZU5G+9iBNGs=
+
+Name: res/layout/annotations_entry.xml
+SHA1-Digest: xJKyXF5kd2q/N9f9U5U3X1qUjAg=
+
+Name: res/drawable/triple_tap.png
+SHA1-Digest: cw0z91bm/n1YekdTkqtWUogPQrs=
+
+Name: res/layout/categories_dialog.xml
+SHA1-Digest: svjjo2+QuSTzc2PWvwWz3sWRJ2A=
+
+Name: res/drawable/device_icon.png
+SHA1-Digest: OTfzCHz4Xy1l38+3C1o/CoO/7Uw=
+
+Name: assets/docs/license.txt
+SHA1-Digest: KJtddrDodUrPc7+LrXJeZy4y7sE=
+
+Name: res/layout/document_information_dialog.xml
+SHA1-Digest: fb9QLiWExFxet4KdcmC5MfowXdA=
+
+Name: res/drawable-ldpi/file_icon.png
+SHA1-Digest: 6YdbbJ+8LK6mWnyvlAgnIfo+Cus=
+
+Name: res/layout/read_color_options.xml
+SHA1-Digest: P6YfP1GlMrUinYR614tWYWG5Ojc=
+
+Name: res/layout/trial_expired_dialog.xml
+SHA1-Digest: tW9RwQ+aNBmnSuwwPXHyW9a+fCY=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: i8StAvZsljftOuMz6xIfNNK8G5U=
+
+Name: res/layout/edit_favorite_folders_entry.xml
+SHA1-Digest: y3QaMg6rVyz0dSK4CeB9Vew8KUk=
+
+Name: res/drawable/categorized.png
+SHA1-Digest: JedIB1MQND6fKI/h+aJFM8frYdA=
+
+Name: res/drawable/previous_page_btn.png
+SHA1-Digest: FYgXDjYxtyqjFvWXBCGVJrOfa1s=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: BLfixpdlXhg7c93spq1PGUM+F+4=
+
+Name: res/layout/dl_icons_options.xml
+SHA1-Digest: tsyKtbFuB6MUd/l1zobUPxDQURA=
+
+Name: res/layout/color_name_entry.xml
+SHA1-Digest: wHimmYwG3R2FUOimG4nPZner6Qg=
+
+Name: res/drawable/card_overlay.png
+SHA1-Digest: ppCuhY2tWKZXjVpmwa/7v4o7AtI=
+
+Name: res/layout/trial_period_dialog.xml
+SHA1-Digest: x/JEDMYfvF/fDJXGWdY55ytizAE=
+
+Name: res/drawable/dropbox_logo.png
+SHA1-Digest: p+lzckk9Q5AZOICE9RVAtQQH8z0=
+
+Name: res/layout/read_tap_options.xml
+SHA1-Digest: qEzj17AoyjmyqsT30mKoc0C3B1g=
+
+Name: res/layout/select_folder_entry.xml
+SHA1-Digest: JKRjQFimLfKC4gt34L0/oCWd0N4=
+
+Name: res/layout/edit_bookmark_dialog.xml
+SHA1-Digest: FAsMLrKicKoy1QuGJpqa5vF7eIo=
+
+Name: res/drawable/toolbar_gradient.xml
+SHA1-Digest: ZJX0ltXe0VxtIoc7L/XJF/nbW0s=
+
+Name: res/layout/web_sign_in_dialog.xml
+SHA1-Digest: BS9w5xTfi2eSfQwT1iTVaQQxg8Q=
+
+Name: res/layout/email_link_dialog.xml
+SHA1-Digest: i/g2eLB5iDK4q1hbMeImG25zdks=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: 80XBbfQbaiUAjaX2Twq6Dn34YPk=
+
+Name: res/layout/doc_list_options.xml
+SHA1-Digest: rL1pLAkVNZa+e5W5Soucyg3+TVw=
+
+Name: res/drawable/find_again_btn.png
+SHA1-Digest: afFTiJxeQ6oBDTv8ZFH7ZI5n3lE=
+
+Name: res/layout/read.xml
+SHA1-Digest: wLLID4IdnFqcxUP3MltC5Ki1mVs=
+
+Name: res/drawable/next_page_btn.png
+SHA1-Digest: Q0TquTrMQoS8Uhpw2TpRvvphCVE=
+
+Name: res/layout/save_target_to_dialog.xml
+SHA1-Digest: svjjo2+QuSTzc2PWvwWz3sWRJ2A=
+
+Name: res/layout/download_bookmarks_entry.xml
+SHA1-Digest: nnzx/1XJvbmd23bJ0BeRgi8Dkh0=
+
+Name: res/drawable-hdpi/dropbox_logo.png
+SHA1-Digest: ciLNzx1wkuFb2CfL74AVepr6BUQ=
+
+Name: res/layout/dlv_entry_short.xml
+SHA1-Digest: YuYtH2zoZdnYV5qW7nMLl36KBgI=
+
+Name: res/layout/read_color_options_entry.xml
+SHA1-Digest: 7wUpLvZ56GgD/m2v3N6n5jz1UU8=
+
+Name: res/layout/delete_special_dialog.xml
+SHA1-Digest: hULLnCXuqFc3dQJRXdoP8/pFkd4=
+
+Name: res/layout/read_content_options.xml
+SHA1-Digest: NeIFCxWGtqjzyu9591jj0yM1vTc=
+
+Name: res/drawable/file_icon.png
+SHA1-Digest: UssSWWIefQ24hAVxSJ2ki1WM4C4=
+
+Name: res/layout/edit_color_theme_dialog.xml
+SHA1-Digest: xXTDmPPpW3UYjLqpKG7TRILVrhc=
+
+Name: res/drawable/back_btn.png
+SHA1-Digest: YvJKC7uLA0roaUL7lGpMU55aTAk=
+
+Name: res/drawable/dialog_divider_horizontal_light.9.png
+SHA1-Digest: ZUr/RWbQuLNMDiGiFoaANlxhL+Q=
+
+Name: res/layout/bookmarks_dialog.xml
+SHA1-Digest: bp/EazH/JoruS21zIVHAqEOeWAs=
+
+Name: res/layout/web_link_dialog.xml
+SHA1-Digest: ScpOpOtXzM6Dt3L/6i7CDMafVwo=
+
+Name: res/layout/tel_link_dialog.xml
+SHA1-Digest: xdnXQiAWf5yMYrq/b/ma7dqzD9E=
+
+Name: res/drawable/double_tap.png
+SHA1-Digest: ZDTRUa7rXDV0szdSNbW87/jD8kM=
+
+Name: res/drawable/find_btn.png
+SHA1-Digest: KOO4hiCOaqIatFMWF42O8DE/9sg=
+
+Name: res/layout/save_target_to_entry.xml
+SHA1-Digest: y3QaMg6rVyz0dSK4CeB9Vew8KUk=
+
+Name: res/layout/dl_list_options.xml
+SHA1-Digest: N9xM56QH9dKJYA6PArAQDVR9S7Q=
+
+Name: assets/docs/iSiloDisplaySample.pdb
+SHA1-Digest: HmBugw5o8DC+DZWMzvZuFpBmC9U=
+
+Name: res/layout/select_folder_dialog.xml
+SHA1-Digest: oQFM60eBqaWdsjbNdcX0smSSdfc=
+
+Name: res/layout/rename_file_dialog.xml
+SHA1-Digest: Rr5hY6em9I9+UWfobpaLHp4+kow=
+
+Name: res/layout/add_bookmark_dialog.xml
+SHA1-Digest: XlWugt+yH40gTQr8bZMMmVZuOjo=
+
+Name: res/layout/read_button_options.xml
+SHA1-Digest: jWc1A3z4q1DP5/oWIe+6wlKp4yQ=
+
+Name: res/layout/document_list.xml
+SHA1-Digest: FvdIu6sLRU9cosO59X7T/e9DJu8=
+
+Name: res/layout/annotation_settings_dialog.xml
+SHA1-Digest: aTYRSii6ltBZVLeBv7xfhn9X4wQ=
+
+Name: res/drawable/favorite_folders.png
+SHA1-Digest: HFkPOh/u84UCB0GTUbSP/WSWkG0=
+
+Name: res/drawable-ldpi/folder_icon.png
+SHA1-Digest: LTrSw1GTP1M+LZVjwVIr168tvhs=
+
+Name: res/drawable/recently_opened.png
+SHA1-Digest: LgGmdvefa4mDbX62pmOOVzCpcmo=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: BAdekYzv8o0E63TqUMDIVEZpCr0=
+
+Name: assets/docs/readme.txt
+SHA1-Digest: CdoE75AqEEnCovad05qTN6sk9xs=
+
+Name: res/drawable-ldpi/splash.png
+SHA1-Digest: BLfixpdlXhg7c93spq1PGUM+F+4=
+
+Name: res/layout/web_bookmark_dialog.xml
+SHA1-Digest: G6rfRnjLQGUwNBQhtgLx1EeT9Is=
+
+Name: res/layout/dl_mode_options.xml
+SHA1-Digest: 11prFwPnOifS9XL3sPoMBot7HSY=
+
+Name: res/layout/edit_favorite_folders_dialog.xml
+SHA1-Digest: svjjo2+QuSTzc2PWvwWz3sWRJ2A=
+
+Name: res/layout/system_information_dialog.xml
+SHA1-Digest: htRwVxlyoDynTanbZPFLrALdqNM=
+
+Name: res/drawable/folder_icon.png
+SHA1-Digest: 7HQ/MZl3fmGdkdWEBX3Of6ZyhFk=
+
